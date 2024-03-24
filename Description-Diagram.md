@@ -2,7 +2,7 @@
 
 **Core Banking System (CBS)** merupakan fondasi utama dari infrastruktur **SOA** di organisasi tersebut. **SOA** memecah aplikasi menjadi komponen-komponen terpisah yang disebut layanan, yang berkomunikasi melalui antarmuka yang terdefinisi dengan baik, memungkinkan **reusability** dan **modularitas** yang tinggi.
 
-**Spring Boot** digunakan sebagai kerangka kerja untuk mengembangkan layanan-layanan ini. Setiap layanan **Spring Boot** terintegrasi dengan **CBS** dan didokumentasikan menggunakan **OpenAPI**. Hal ini memungkinkan komunikasi antara layanan-layanan tersebut melalui antarmuka yang terdefinisi dengan baik, meningkatkan **reusability** dan **scalability**.
+**Spring Boot** digunakan sebagai kerangka kerja untuk mengembangkan layanan-layanan ini. Setiap layanan **Spring Boot** yang terintegrasi dengan **CBS** dan didokumentasikan menggunakan **OpenAPI**. Hal ini memungkinkan komunikasi antara layanan-layanan tersebut melalui antarmuka yang terdefinisi dengan baik, meningkatkan **reusability** dan **scalability**.
 
 Layanan-layanan ini dijalankan di lingkungan **OpenShift**, sebuah platform yang memungkinkan pengelolaan dan pen-skalaan aplikasi dalam lingkungan container. Manajemen layanan ini dilakukan dengan bantuan **Jenkins**, alat otomatisasi yang mengotomatisasi proses pengembangan dan penyebaran perangkat lunak.
 
