@@ -1,3 +1,4 @@
+# Penjelasan Diagram
 
 **Core Banking System (CBS)** merupakan fondasi utama dari infrastruktur **SOA** di organisasi tersebut. **SOA** memecah aplikasi menjadi komponen-komponen terpisah yang disebut layanan, yang berkomunikasi melalui antarmuka yang terdefinisi dengan baik, memungkinkan **reusability** dan **modularitas** yang tinggi.
 
